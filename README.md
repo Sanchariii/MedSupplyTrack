@@ -1,4 +1,9 @@
 # MedSupplyTrack
+<h1 align="center">
+             ManageIt 👩🗒️👨
+</h1>
+
+![image](https://user-images.githubusercontent.com/78029145/179185741-5f1030a2-7667-4f5e-b70a-1064bd0a290d.png)
 
 ## Overview of the App
 
@@ -12,7 +17,7 @@ This application can be used by any user. This application is been designed for 
 
 Below are the operations performing in the app are as follows -
 
-1. <b>Authentication system Only for Pharmacy Supplier</b> - This section contains a table to display the details of the employees stored. It also has a button which opens a form to add new employees. There is also an edit & delete option along with details of each employee to update the details of employees or delete them when required.
+1. <b>Authentication system Only for Pharmacy Supplier</b> 
 
 2. <b>Medical Registrations</b>
 
@@ -28,3 +33,35 @@ Below are the operations performing in the app are as follows -
 7. <b>View Records</b>
 
 8. <b>Sell  Medicines & Products</b>
+
+## Tech Stack Used -
+
+* Python
+
+* HTML
+
+* CSS
+
+* Javascript
+
+* MySQL
+
+## Libraries Used -
+
+* flask
+
+* Flask-SQLAlchemy
+
+* mysqlclient
+
+* Flask-Login
+
+## Run Locally
+
+1.1 `git clone <repo link>`
+
+1.2 `cd ManageIt`
+
+1.3 `flask run`
+
+
